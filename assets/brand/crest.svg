@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="0 0 260 260" role="img" aria-label="Designed By Lu crest placeholder">
+  <rect width="260" height="260" fill="#070707"/>
+  <rect x="22" y="22" width="216" height="216" fill="none" stroke="#c8a45d" stroke-width="3"/>
+  <rect x="34" y="34" width="192" height="192" fill="none" stroke="#efe7d9" stroke-width="1" opacity=".45"/>
+  <text x="130" y="118" text-anchor="middle" font-family="Georgia, serif" font-size="58" fill="#c8a45d">DbL</text>
+  <line x1="77" y1="138" x2="183" y2="138" stroke="#c8a45d" stroke-width="2"/>
+  <text x="130" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#efe7d9" letter-spacing="4">DESIGNED BY LU</text>
+  <text x="130" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#c8a45d" letter-spacing="3">LIFESTYLE COLLECTIVE</text>
+</svg>
