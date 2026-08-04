@@ -1,0 +1,17 @@
+{
+  "name": "Designed By Lu",
+  "short_name": "Designed By Lu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090807",
+  "theme_color": "#090807",
+  "description": "One vision expressed through five lifestyle pillars.",
+  "icons": [
+    {
+      "src": "/assets/brand/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
